@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "General Skills Knowledge/Obsidian 001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Obsidian 001"
             }
           }
         ]
@@ -197,12 +197,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "39683ed96ab769c6",
+  "active": "b42cf458d02a0a65",
   "lastOpenFiles": [
+    "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md",
+    "README.md",
     "General Skills Knowledge/Obsidian 001.md",
     "General Skills Knowledge",
     "01_Sources/Question 2.md",
-    "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md",
     "00_Hubs/07 Hub - Skills",
     "00_Hubs/05 Questions/Hub_01.md",
     "00_Hubs/05 Questions",
@@ -224,7 +225,6 @@
     "00_Hubs/02_Hub - Subject Notes/HUB-01 - Fracturing Context.md",
     "20_Processing/PRO-001 - Proposal Summary.md",
     "00_Hubs/03_Hub - Type Notes/HUB-.md",
-    "README.md",
     "MY NOTES - Shortcut.lnk",
     "50_Thinking/THK-0064 - Random Forest Foam Prediction.md",
     "00_Hubs/03_Hub - Type Notes/HUB-T29 - Strategy.md",
