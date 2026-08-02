@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md",
+                "file": "Thinking/07_Decide/THK-0023 - Which model should I choose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REF-0001 - Proposal Summary"
+              "title": "THK-0023 - Which model should I choose"
             }
           }
         ],
@@ -242,6 +242,7 @@
   },
   "active": "071c8d2c0d20ce84",
   "lastOpenFiles": [
+    "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md",
     "01_Sources/PhD Thesis Proposal.md",
     "01_Sources/Question 3.md",
     "01_Sources/Question 4.md",
@@ -266,7 +267,6 @@
     "Thinking/01_Learn/What is Machine Learning_.md",
     "Thinking/01_Learn/What is Bayesian Optimisation_.md",
     "Thinking/01_Learn/What is an HPHT Reservoir_.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md",
     "00_Hubs/06_Hub - Methodology/Hub - connected methodological chain.md",
     "00_Hubs/01_Hub - Folder Notes/Hub - Thesis Proposal Sections.md",
     "00_Hubs/05 Questions/Hub_01.md",
