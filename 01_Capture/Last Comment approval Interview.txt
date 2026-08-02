@@ -1,0 +1,30 @@
+Dear Daniel,
+
+Thank you for your email and for sending through the revised proposal.
+
+I have reviewed the revised version titled “Machine Learning-Assisted Prediction and Operating-Window Identification for HPHT Energised Foam Rheology.” I appreciate the substantial effort you have made to address the previous feedback and strengthen the petroleum engineering focus of the proposal.
+
+Overall, this version is much improved. The proposal is now more clearly framed around HPHT energised foam rheology, apparent viscosity prediction, foam stability, uncertainty quantification, and operating-window identification for hydraulic fracturing-fluid design. The distinction between machine learning as a decision-support tool and the petroleum engineering problem as the central focus is also much clearer.
+
+I also appreciate the way you have refined the scope by identifying apparent viscosity and foam stability as the primary predictive targets, while treating proppant transport and operating-window identification as downstream engineering applications. The inclusion of dataset standardisation, grouped validation, uncertainty quantification, scope limitations, and a more realistic discussion of data feasibility has strengthened the proposal considerably.
+
+At this stage, I consider the revised proposal suitable for further discussion. I would be happy to arrange a short online interview to discuss your background, the proposal, possible supervision arrangements, and the next steps in the application process.
+
+For the interview, please be prepared to discuss:
+
+(1) your prior research experience and technical preparation;
+(2) your understanding of HPHT foam rheology and hydraulic fracturing-fluid design;
+(3) the likely data sources for the proposed modelling work;
+(4) how you would manage the limited and heterogeneous nature of HPHT foam datasets;
+(5) how uncertainty quantification would be implemented in practice;
+(6) how the proposed operating windows would be linked to engineering decision-making.
+
+Please send me your availability for a short online meeting over the next week, including your time zone, and I will try to identify a suitable time. Friday (any time)or Monday morning is better for me
+
+Please note that this invitation to interview does not represent a guarantee of admission, scholarship, or supervision. Any formal supervision arrangement would remain subject to University admission requirements, scholarship competitiveness, project fit, supervisory capacity, and relevant School/Faculty processes.
+
+Thank you again for your careful revision and for the effort you have put into strengthening the proposal.
+
+Kind regards,
+
+Mary

@@ -1,0 +1,96 @@
+Dear Daniel,
+
+Thank you for your email and for sending through your draft research proposal.
+
+I have now reviewed the proposal titled “An Uncertainty-Aware Machine Learning Framework for Predicting and Optimising the Rheological Performance of Nanoparticle-Stabilised Energised Fracturing Foams under HPHT Reservoir Conditions.”
+
+Overall, the proposal is relevant to my research interests and has potential. The topic aligns with my work on foam-based fracturing fluids, HPHT foam rheology, nanoparticle–surfactant-stabilised foams, proppant transport, and data-driven modelling for petroleum engineering applications. I also appreciate that you have attempted to keep the proposal grounded in foam characterisation and reservoir engineering rather than presenting it as a generic artificial intelligence project.
+
+Your background in artificial intelligence, uncertainty quantification, predictive analytics, Bayesian optimisation, and engineering systems is clearly relevant to the computational part of the proposed research. However, for this proposal to be competitive and technically convincing as a PhD project under my supervision, it needs further refinement. The central issue is that the petroleum engineering problem must be made stronger, more specific, and more technically explicit. At the moment, the proposal is well written, but it still reads more like an AI framework applied to foam data than a petroleum engineering research problem that uses AI as a tool.
+
+Please see my detailed feedback below. I suggest you use this feedback to revise the proposal while I am away.
+
+First, the research problem needs to be sharpened. You correctly identify that energised foams under HPHT reservoir conditions are difficult to predict due to the combined influence of pressure, temperature, foam quality, surfactant chemistry, nanoparticle concentration, salinity, shear rate, and gas phase. However, the proposal should more clearly state the core engineering problem. For example, the problem is not only that foam rheology is difficult to predict; the deeper engineering issue is that unreliable prediction of apparent viscosity, foam stability, and proppant-carrying capacity may lead to poor fracturing-fluid design, inefficient proppant transport, reduced fracture conductivity, and uncertain treatment performance under HPHT reservoir conditions. This should be made explicit.
+
+Second, the proposal needs a clearer distinction between rheology prediction, foam stability prediction, and engineering performance assessment. Apparent viscosity, foam half-life, drainage rate, proppant settling, and proppant transport are related but not identical outputs. The revised proposal should define which outputs are central and which are secondary. I suggest that you make apparent viscosity and foam stability the primary predictive targets, and then treat proppant transport or operating-window identification as the engineering application of those predictions.
+
+Third, the knowledge gap should be more critical. At present, the proposal states that machine learning has been applied in petroleum engineering and that uncertainty quantification remains underexplored in foam rheology. This is a good start, but it needs more depth. You should identify what existing foam rheology models can and cannot do, what existing ML studies have predicted, what datasets they used, whether they considered HPHT conditions, and whether they quantified prediction uncertainty. The gap should not simply be that “uncertainty-aware ML has not been widely applied”; it should explain why this matters for fluid design and operational decision-making.
+
+Fourth, you need to strengthen the petroleum engineering foundation. The proposal should include more discussion of hydraulic fracturing operations, HPHT reservoir constraints, foam quality, apparent viscosity, shear-thinning behaviour, proppant suspension, fracture conductivity, and formation damage. These concepts should appear not only in the introduction but also in the methodology and expected outcomes. This will help demonstrate that the project is anchored in petroleum engineering, not only computational modelling.
+
+Fifth, the methodology needs more technical specificity. The four-phase structure is logical, but each phase should be expanded with clearer inputs, outputs, and decision points. For the data preparation phase, specify exactly what variables you expect to collect: pressure, temperature, foam quality, gas type, gas fraction, surfactant concentration, nanoparticle concentration, salinity, shear rate, apparent viscosity, half-life, drainage rate, and proppant-related indicators if available. You should also explain how inconsistent datasets from different studies will be standardised.
+
+Sixth, data availability is a major issue and needs to be handled more carefully. The proposal currently assumes that sufficient HPHT foam rheology and stability data will be available from the literature and possibly from research group datasets. This may be a limiting factor. You need to acknowledge that foam rheology datasets are often small, formulation-specific, and not always reported in machine-learning-ready format. The revised proposal should include a realistic data strategy: start with available published datasets, extract structured data from the literature, use group datasets only if available and approved, and design the modelling approach to work with limited experimental data.
+
+Seventh, the machine learning component needs scope control. The proposal lists Random Forest, XGBoost, ANN, Gaussian Process Regression, Bayesian Neural Networks, Monte Carlo Dropout, SHAP, and Bayesian optimisation. This is too broad unless carefully justified. A stronger proposal would present a staged modelling strategy: begin with interpretable baseline models, then compare selected ML models, then apply uncertainty quantification only to the best-performing or most appropriate models. Avoid giving the impression that you will simply test every available algorithm. The model selection must be justified by the size and structure of the dataset.
+
+Eighth, uncertainty quantification should be explained more clearly. You should distinguish between different types of uncertainty. For example, epistemic uncertainty may arise from limited or sparse data, while aleatoric uncertainty may arise from experimental variability and measurement noise. This distinction is important because it affects the choice of uncertainty quantification method. For small datasets, Gaussian Process Regression or ensemble-based prediction intervals may be more appropriate than deep Bayesian neural networks. You should justify the uncertainty methods based on the expected dataset size.
+
+Ninth, the Bayesian optimisation component should be reframed. At present, it appears as a major component of the project, but it may be premature unless the predictive model is robust and the operating constraints are clearly defined. You should clarify what is being optimised. For example, are you optimising apparent viscosity, foam half-life, proppant suspension, foam quality, nanoparticle concentration, surfactant concentration, or operating temperature/pressure range? You should also specify the constraints, because the optimum foam formulation is not simply the one with the highest viscosity. It must remain pumpable, stable, cost-effective, and suitable for fracture stimulation.
+
+Tenth, validation must be strengthened. The proposal states that models will be validated against unseen datasets and historical laboratory records, but more detail is needed. You should explain how the data will be split, how model generalisation will be tested, and how extrapolation beyond the training range will be handled. For example, validation could include train/test splits by formulation, by temperature range, or by experimental study, rather than only random splitting of data points. This is important because random data splitting can overestimate model performance when measurements from the same experimental campaign appear in both training and testing datasets.
+
+Eleventh, the operating-window concept needs clearer definition. This is potentially one of the strongest parts of the proposal, but it needs to be made more engineering-specific. An operating window could be defined as the range of temperature, pressure, foam quality, salinity, surfactant concentration, and nanoparticle concentration where the foam achieves acceptable apparent viscosity, stability, and proppant-support capability with acceptable uncertainty. This would make the project more useful for fluid design.
+
+Twelfth, the proposal should avoid overstating what machine learning can do. ML can support prediction, screening, sensitivity analysis, and optimisation, but it cannot replace sound experimental understanding or petroleum engineering judgement. I suggest moderating any wording that implies the model will automatically provide reliable field-ready decisions. A better framing is that the ML framework will support decision-making by identifying trends, uncertainty ranges, and candidate operating windows that can guide further laboratory or engineering evaluation.
+
+Thirteenth, the title is technically relevant but currently too long. I suggest shortening it while keeping the key elements. For example:
+
+“Uncertainty-Aware Machine Learning for Predicting HPHT Rheology of Nanoparticle-Stabilised Energised Fracturing Foams”
+
+or
+
+“Machine Learning-Assisted Prediction and Operating-Window Identification for HPHT Energised Foam Rheology”
+
+A shorter title will make the proposal appear more focused.
+
+Fourteenth, the research questions should be refined. The current research questions are reasonable, but they could be more technical. For example, you could revise them as follows:
+
+Which formulation and operating variables most strongly control apparent viscosity and foam stability of nanoparticle-stabilised energised foams under HPHT conditions?
+How accurately can machine learning models predict apparent viscosity and foam stability across varying pressure, temperature, salinity, foam quality, and chemical formulation conditions?
+How can prediction uncertainty be quantified and incorporated into the interpretation of foam rheology models?
+How can uncertainty-aware predictions support operating-window identification for fracturing-fluid design and proppant transport assessment?
+Fifteenth, the objectives should align directly with the research questions. I suggest revising the objectives so that each one has a clear deliverable. For example:
+
+Compile and structure HPHT foam rheology and stability datasets from available experimental and literature sources.
+Develop and compare selected ML models for predicting apparent viscosity and foam stability indicators.
+Quantify prediction uncertainty and assess model reliability under sparse or extrapolated HPHT conditions.
+Identify operating windows for nanoparticle-stabilised energised foam formulations under defined reservoir and treatment constraints.
+Evaluate the engineering implications of the model outputs for fracturing-fluid design and proppant transport.
+Sixteenth, the proposal should more clearly explain how your background prepares you for the petroleum engineering component. Your AI and engineering systems background is strong, but you should be direct about what is new to you. For example, you may state that petroleum engineering, foam rheology, and hydraulic fracturing-fluid design are areas you will need to strengthen during the early stage of candidature. This is not a weakness if presented honestly. It shows maturity and awareness of the learning required.
+
+Seventeenth, the references are relevant, but the literature review should be expanded and made more critical. You should include more discussion of foam rheology under HPHT conditions, nanoparticle–surfactant interactions, foam quality, proppant transport, and existing rheological models. The current reference list includes relevant papers, but the proposal needs to show deeper engagement with what each paper contributes and where the limitations remain.
+
+Eighteenth, please check terminology and consistency. Use either “energised” or “energized” consistently, depending on the required style. In Australia, “energised” is usually preferred. Also ensure consistent use of “nanoparticle-stabilised”, “foam rheology”, “apparent viscosity”, “HPHT”, and “fracturing-fluid design”. Avoid switching between broad terms such as “subsurface data” and more specific terms such as “HPHT foam rheology data” unless there is a reason.
+
+Nineteenth, the figure in the methodology section is useful, but it should be improved for a formal proposal. The figure should be sharper, easier to read, and directly aligned with the research objectives. Each stage in the figure should match the phases in the methodology. If possible, revise the figure so that it clearly shows: data sources, preprocessing, feature selection, ML prediction, uncertainty quantification, operating-window identification, and engineering assessment.
+
+Twentieth, the expected contributions should be more specific and more modest. Rather than saying the work will broadly support hydraulic fracturing decision-making, specify the contribution as a framework for predicting apparent viscosity and stability of nanoparticle-stabilised energised foams under HPHT conditions, with quantified uncertainty and operating-window guidance. This is more precise and more defensible.
+
+In terms of structure, I suggest revising the proposal using the following headings:
+
+Proposed title
+Background and petroleum engineering context
+Research problem
+Knowledge gap and significance
+Aim and research questions
+Proposed methodology
+Data compilation and preparation
+Rheology and stability prediction
+Uncertainty quantification
+Operating-window identification
+Engineering assessment
+Data requirements and feasibility
+Expected contributions
+Scope and limitations
+Alignment with your background
+Key references
+My overall assessment is that the proposal is promising and aligned with my research area, but it needs further refinement to make the petroleum engineering contribution clearer. The strongest version of this proposal would not be framed as “using AI to predict foam behaviour” in a general sense. It should be framed as a petroleum engineering project that develops an uncertainty-aware predictive framework to support HPHT energised foam design, with apparent viscosity, stability, and operating-window identification as the central technical outputs.
+
+Please note that I will be on annual leave from next week until the end of July, and I will not be able to provide further guidance or iterative feedback until I return. You are welcome to use the feedback above to revise the proposal independently during this period.
+
+Finally, please note that any formal supervision arrangement would remain subject to University admission requirements, scholarship competitiveness, project fit, supervisory capacity, and the relevant School/Faculty processes. My feedback on the proposal should not be interpreted as a guarantee of admission, scholarship, or supervision.
+
+Thank you again for your interest in working with me. I encourage you to revise the proposal carefully using the points above.
+
+Kind regards,
