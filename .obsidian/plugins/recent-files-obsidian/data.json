@@ -1,12 +1,41 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian 001",
-      "path": "General Skills Knowledge/Obsidian 001.md"
+      "basename": "Hub_01",
+      "path": "00_Hubs/05 Questions/Hub_01.md"
+    },
+    {
+      "basename": "Question 6",
+      "path": "01_Sources/Question 6.md"
+    },
+    {
+      "basename": "Question 5",
+      "path": "01_Sources/Question 5.md"
+    },
+    {
+      "basename": "Question 4",
+      "path": "01_Sources/Question 4.md"
+    },
+    {
+      "basename": "Question 3",
+      "path": "01_Sources/Question 3.md"
+    },
+    {
+      "basename": "Question 2",
+      "path": "01_Sources/Question 2.md"
     },
     {
       "basename": "Hub - Obsidian Notes",
       "path": "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md"
+    },
+    {
+      "basename": "Obsidian 001",
+      "path": "General Skills Knowledge/Obsidian 001.md"
+    },
+    {
+      "basename": "Hub - Cognitive Type Questions",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Cognitive Type Questions.md"
+
     }
   ],
   "omittedPaths": [],
