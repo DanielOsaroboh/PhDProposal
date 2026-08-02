@@ -1,0 +1,220 @@
+
+
+---
+
+# CHAPTER THREE
+
+## RESEARCH METHODOLOGY
+
+### 3.1 Introduction
+
+This chapter describes the methodology adopted to investigate how Generative Artificial Intelligence (GenAI) influences knowledge worker efficiency in UK professional service firms. It explains the research philosophy, research approach, research design, study population, sampling strategy, data collection procedures, data analysis techniques, ethical considerations and measures taken to ensure research trustworthiness. The methodological choices are aligned with the exploratory nature of the study and the research aim of understanding participants' lived experiences and perceptions of using Generative AI in professional work.
+
+---
+
+## 3.2 Research Philosophy
+
+This study adopts an **interpretivist research philosophy**.
+
+Interpretivism assumes that reality is socially constructed and that individuals assign different meanings to their experiences. Since knowledge workers interact with Generative AI in different organisational contexts, their perceptions of efficiency, task augmentation and verification effort cannot be adequately understood through numerical measurement alone.
+
+The interpretivist philosophy therefore enables the researcher to explore participants' experiences, beliefs and interpretations regarding the use of Generative AI in their daily work.
+
+---
+
+## 3.3 Research Approach
+
+The study employs an **inductive research approach**.
+
+An inductive approach begins with observations collected from participants before developing broader explanations and conceptual understanding. Since the effects of Generative AI on professional knowledge work continue to evolve rapidly, an inductive approach allows themes to emerge directly from participants' experiences rather than testing predetermined hypotheses.
+
+---
+
+## 3.4 Research Design
+
+This research adopts a **qualitative exploratory research design**.
+
+A qualitative design is appropriate because the study seeks to understand how professionals experience the integration of Generative AI into their work processes, how AI augments their tasks, and how verification activities influence perceived efficiency.
+
+The exploratory nature of the study is particularly suitable because research on verification effort and AI-assisted knowledge work remains relatively new and continues to develop.
+
+Semi-structured interviews provide sufficient flexibility for participants to describe their experiences while allowing the researcher to investigate issues emerging during the interviews.
+
+---
+
+## 3.5 Research Setting
+
+The study focuses on **professional service firms operating within the United Kingdom**.
+
+Professional service firms include organisations whose primary outputs depend on specialised knowledge and expertise, including:
+
+* Legal firms
+* Accounting firms
+* Management consulting firms
+* Financial advisory firms
+* Engineering consultancies
+* Architectural practices
+* Marketing and creative agencies
+
+Participants will be knowledge workers who currently use Generative AI tools such as ChatGPT, Microsoft Copilot, Claude, Gemini or similar AI systems as part of their professional activities.
+
+---
+
+## 3.6 Target Population
+
+The target population comprises knowledge workers employed within UK professional service firms who have practical experience using Generative AI during their work.
+
+Knowledge workers include professionals whose work primarily involves creating, analysing, interpreting and communicating knowledge rather than performing routine manual tasks.
+
+Examples include:
+
+* Consultants
+* Lawyers
+* Accountants
+* Financial analysts
+* Engineers
+* Researchers
+* Project managers
+* Business analysts
+
+---
+
+## 3.7 Sampling Technique
+
+The study employs **purposive sampling**.
+
+Purposive sampling enables the researcher to deliberately select participants who possess relevant knowledge and experience regarding Generative AI in professional work.
+
+Participants will be selected based on the following criteria:
+
+* employed within UK professional service firms
+* actively using Generative AI
+* involved in knowledge-intensive tasks
+* willing to participate voluntarily
+
+Snowball sampling may also be used whereby participants recommend colleagues who satisfy the study requirements.
+
+---
+
+## 3.8 Sample Size
+
+Approximately **8–12 participants** will be interviewed.
+
+This sample size is considered appropriate for qualitative studies seeking rich, detailed insights rather than statistical generalisation. Interviews will continue until sufficient thematic saturation is achieved, where additional interviews generate little or no new information.
+
+---
+
+## 3.9 Data Collection Method
+
+Primary data will be collected through **semi-structured interviews**.
+
+Semi-structured interviews allow consistency across participants while providing flexibility to explore emerging issues in greater depth.
+
+Interviews are expected to last between **45 and 60 minutes** and may be conducted through Microsoft Teams or Zoom depending on participant preference.
+
+With participants' consent, interviews will be audio-recorded and later transcribed verbatim for analysis.
+
+Example interview topics include:
+
+* Experience using Generative AI
+* Types of tasks augmented by AI
+* Benefits achieved
+* Verification activities performed
+* Trust in AI-generated outputs
+* Organisational policies
+* Changes in productivity
+* Challenges encountered
+
+---
+
+## 3.10 Research Instrument
+
+The primary research instrument will be a **semi-structured interview guide**.
+
+The interview guide will consist of open-ended questions designed around the main constructs of the study:
+
+* Generative AI adoption
+* Task augmentation
+* Verification effort
+* Knowledge worker efficiency
+
+Follow-up questions and probing techniques will be used where necessary to obtain deeper explanations.
+
+---
+
+## 3.11 Data Analysis
+
+Interview transcripts will be analysed using **Braun and Clarke's (2006) Reflexive Thematic Analysis**.
+
+The analysis will follow six stages:
+
+1. Familiarisation with the data
+2. Initial coding
+3. Searching for themes
+4. Reviewing themes
+5. Defining and naming themes
+6. Producing the final report
+
+Codes will be developed inductively from participant responses before being organised into broader themes explaining how Generative AI influences knowledge worker efficiency.
+
+Themes are expected to relate to:
+
+* AI-assisted task performance
+* Task augmentation
+* Verification effort
+* Trust in AI outputs
+* Quality assurance
+* Productivity
+* Organisational practices
+
+---
+
+## 3.12 Trustworthiness of the Study
+
+Rather than reliability and validity, qualitative research emphasises trustworthiness.
+
+The study will employ Lincoln and Guba's (1985) four criteria.
+
+### Credibility
+
+Credibility will be enhanced through prolonged engagement with participants, member checking and the use of verbatim quotations.
+
+### Transferability
+
+Detailed descriptions of the research setting and participants will allow readers to determine whether findings are applicable to similar contexts.
+
+### Dependability
+
+An audit trail documenting methodological decisions, interview procedures and coding processes will be maintained throughout the research.
+
+### Confirmability
+
+Researcher reflexivity and systematic documentation will minimise personal bias and ensure findings are grounded in participant evidence.
+
+---
+
+## 3.13 Ethical Considerations
+
+Ethical approval will be obtained from the relevant university ethics committee before data collection begins.
+
+The study will comply with established ethical principles including:
+
+* informed consent
+* voluntary participation
+* right to withdraw
+* confidentiality
+* anonymity
+* secure storage of research data
+* compliance with the UK General Data Protection Regulation (UK GDPR)
+
+Participants' identities will be protected through the use of pseudonyms.
+
+---
+
+## 3.14 Chapter Summary
+
+This chapter has outlined the methodology adopted for investigating the influence of Generative AI on knowledge worker efficiency in UK professional service firms. An interpretivist philosophy, inductive approach and qualitative exploratory design underpin the study. Semi-structured interviews with purposively selected knowledge workers will provide the primary data, which will be analysed using reflexive thematic analysis. Measures to ensure trustworthiness and ethical compliance have also been presented.
+
+---
+
+This version is appropriate for a **UK MSc dissertation** and aligns with your chosen topic and qualitative methodology.

@@ -1,0 +1,4 @@
+- **Models** → Computational or mathematical representations used to make predictions.
+- **Variables** → Measurable quantities that can change.
+- **Metrics** → Measures used to evaluate performance.
+- **Functions** → The purpose or role that something performs.

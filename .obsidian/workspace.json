@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4a6c9310d5d2165d",
+    "type": "split",
+    "children": [
+      {
+        "id": "573b72755b3fcba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfd0ec8dfef61642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60_Thinking/06_Evaluate/How do we know a model is good_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How do we know a model is good_"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "770a82289be5faed",
+    "type": "split",
+    "children": [
+      {
+        "id": "460e324abf937097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39683ed96ab769c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ee11340b9b4d699",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "567964352d14eece",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "465f3144d75f7831",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "2791532568131440",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88b653ad63f1738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "434d14908f56a65a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "60_Thinking/06_Evaluate/How do we know a model is good_.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How do we know a model is good_"
+            }
+          },
+          {
+            "id": "e91b9e0a786347df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "60_Thinking/06_Evaluate/How do we know a model is good_.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How do we know a model is good_"
+            }
+          },
+          {
+            "id": "8121dec0cb642457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2fdebefb397f670",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d1e641999ade463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "60_Thinking/06_Evaluate/How do we know a model is good_.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How do we know a model is good_"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "bfd0ec8dfef61642",
+  "lastOpenFiles": [
+    "90_Meta_system/Evolution/EVO-022 - Thinking Layer now.md",
+    "90_Meta_system/Evolution/EVO-020 - Thinking.md",
+    "90_Meta_system/Evolution/EVO-019 - System Vault.md",
+    "90_Meta_system/Evolution/EVO-018 - Thinking Notes different.md",
+    "90_Meta_system/Evolution/EVO-017 - Thinking Folder.md",
+    "90_Meta_system/Evolution/EVO-016 - Question Type.md",
+    "90_Meta_system/Evolution/EVO-015 - Decision Notes.md",
+    "90_Meta_system/Evolution/EVO-014 - Decision Questions.md",
+    "90_Meta_system/Evolution/EVO-013 - Questions.md",
+    "90_Meta_system/Evolution/EVO-012 - Questions and Query.md",
+    "90_Meta_system/Evolution/EVO-011 - Parameter.md",
+    "90_Meta_system/Evolution/EVO-010 - Variables.md",
+    "90_Meta_system/Evolution/EVO-009 - Ontology.md",
+    "90_Meta_system/Evolution/EVO-008 - Entity.md",
+    "90_Meta_system/Evolution/EVO-007 - Concepts.md",
+    "90_Meta_system/Evolution/EVO-006 - Methods.md",
+    "90_Meta_system/Evolution/EVO-005 - Mechanism.md",
+    "90_Meta_system/Evolution/EVO-004 - Principles.md",
+    "90_Meta_system/Evolution/EVO-002 - Ontology.md",
+    "60_Thinking/03_Explain/Why do nanoparticles improve foam stability_.md",
+    "20_Processing/PRO-001 - Proposal Summary.md",
+    "01_Sources/PhD Thesis Proposal.md",
+    "80_Output_Asset/08_Thesis Chapters/TITLE - 001.md",
+    "10_Questions/Comparisons Q/QUE-005 - Which is better - Random Forest or XGBoost.md",
+    "10_Questions/Definition Q/QUE-001 - What is Machine Learning.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md",
+    "60_Thinking/10_Reflect",
+    "60_Thinking/09_Create",
+    "60_Thinking/08_Explore",
+    "60_Thinking/07_Decide",
+    "60_Thinking/06_Evaluate",
+    "60_Thinking/05_Compare",
+    "60_Thinking/04_Analyse",
+    "60_Thinking/03_Explain",
+    "60_Thinking/02_Understand",
+    "60_Thinking/01_Learn"
+  ]
+}
