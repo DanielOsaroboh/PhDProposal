@@ -5,6 +5,17 @@
       "path": "README.md"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "basename": "THK-0092 - Grouped Validation for Foam Prediction",
+      "path": "50_Thinking/THK-0092 - Grouped Validation for Foam Prediction.md"
+    },
+    {
+      "basename": "Hub - connected methodological chain",
+      "path": "00_Hubs/06_Hub - Methodology/Hub - connected methodological chain.md"
+    },
+    {
+>>>>>>> Stashed changes
       "basename": "HUB-02 - Foam Rheology",
       "path": "00_Hubs/02_Hub - Subject Notes/HUB-02 - Foam Rheology.md"
     },
