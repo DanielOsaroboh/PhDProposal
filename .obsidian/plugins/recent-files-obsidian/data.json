@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "README",
       "path": "README.md"
     },
@@ -16,6 +17,56 @@
     },
     {
 >>>>>>> Stashed changes
+=======
+      "basename": "Hub_01",
+      "path": "00_Hubs/05 Questions/Hub_01.md"
+    },
+    {
+      "basename": "Question 2",
+      "path": "01_Sources/Question 2.md"
+    },
+    {
+      "basename": "Hub - Obsidian Notes",
+      "path": "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md"
+    },
+    {
+      "basename": "How do I design a foam experiment_",
+      "path": "Thinking/09_Create/How do I design a foam experiment_.md"
+    },
+    {
+      "basename": "Obsidian 001",
+      "path": "General Skills Knowledge/Obsidian 001.md"
+    },
+    {
+      "basename": "THK-0006 - Foam Stability",
+      "path": "50_Thinking/THK-0006 - Foam Stability.md"
+    },
+    {
+      "basename": "THK-0001 - Energised Fracturing Foam",
+      "path": "50_Thinking/THK-0001 - Energised Fracturing Foam.md"
+    },
+    {
+      "basename": "Hub - Questions Type",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Questions Type.md"
+    },
+    {
+      "basename": "Hub - Cognitive Type Questions",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Cognitive Type Questions.md"
+    },
+    {
+      "basename": "Hub - Code Laboratory",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Code Laboratory.md"
+    },
+    {
+      "basename": "Hub - Application Assets",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Application Assets.md"
+    },
+    {
+      "basename": "Hub - Knowledge",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Knowledge.md"
+    },
+    {
+>>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
       "basename": "HUB-02 - Foam Rheology",
       "path": "00_Hubs/02_Hub - Subject Notes/HUB-02 - Foam Rheology.md"
     },
@@ -28,6 +79,7 @@
       "path": "00_Hubs/03_Hub - Type Notes/HUB-T11 - Gaps.md"
     },
     {
+<<<<<<< HEAD
       "basename": "REF-0005 - Aim, Objectives, and Research Questions",
       "path": "80_Output_Asset/08_Thesis Chapters/REF-0005 - Aim, Objectives, and Research Questions.md"
     },
@@ -36,22 +88,32 @@
       "path": "80_Output_Asset/08_Thesis Chapters/REF-0002 - Background and Petroleum Engineering Context.md"
     },
     {
+=======
+>>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
       "basename": "REF-0001 - Proposal Summary",
       "path": "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md"
     },
     {
+<<<<<<< HEAD
       "basename": "HUB-T01 - Concepts",
       "path": "00_Hubs/03_Hub - Type Notes/HUB-T01 - Concepts.md"
+=======
+      "basename": "Hub - Output Assets",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Output Assets.md"
+>>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
     },
     {
       "basename": "HUB-01 - Fracturing Context",
       "path": "00_Hubs/02_Hub - Subject Notes/HUB-01 - Fracturing Context.md"
     },
     {
+<<<<<<< HEAD
       "basename": "PRO-001 - Proposal Summary",
       "path": "20_Processing/PRO-001 - Proposal Summary.md"
     },
     {
+=======
+>>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
       "basename": "HUB-",
       "path": "00_Hubs/03_Hub - Type Notes/HUB-.md"
     },
@@ -178,6 +240,7 @@
     {
       "basename": "THK-0049 - Operating-Window Identification",
       "path": "50_Thinking/THK-0049 - Operating-Window Identification.md"
+<<<<<<< HEAD
     },
     {
       "basename": "THK-0053 - Engineering Interpretation of Predictions",
@@ -202,6 +265,8 @@
     {
       "basename": "PRO-005 - Aim, Objectives, and Research Questions",
       "path": "20_Processing/PRO-005 - Aim, Objectives, and Research Questions.md"
+=======
+>>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
     }
   ],
   "omittedPaths": [],
