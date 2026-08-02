@@ -1,272 +1,32 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-<<<<<<< Updated upstream
-=======
-      "basename": "THK-0092 - Grouped Validation for Foam Prediction",
-      "path": "50_Thinking/THK-0092 - Grouped Validation for Foam Prediction.md"
-    },
-    {
-      "basename": "Hub - connected methodological chain",
-      "path": "00_Hubs/06_Hub - Methodology/Hub - connected methodological chain.md"
-    },
-    {
->>>>>>> Stashed changes
-=======
       "basename": "Hub_01",
       "path": "00_Hubs/05 Questions/Hub_01.md"
+    },
+    {
+      "basename": "Question 6",
+      "path": "01_Sources/Question 6.md"
+    },
+    {
+      "basename": "Question 5",
+      "path": "01_Sources/Question 5.md"
+    },
+    {
+      "basename": "Question 4",
+      "path": "01_Sources/Question 4.md"
+    },
+    {
+      "basename": "Question 3",
+      "path": "01_Sources/Question 3.md"
     },
     {
       "basename": "Question 2",
       "path": "01_Sources/Question 2.md"
     },
     {
-      "basename": "Hub - Obsidian Notes",
-      "path": "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md"
-    },
-    {
-      "basename": "How do I design a foam experiment_",
-      "path": "Thinking/09_Create/How do I design a foam experiment_.md"
-    },
-    {
-      "basename": "Obsidian 001",
-      "path": "General Skills Knowledge/Obsidian 001.md"
-    },
-    {
-      "basename": "THK-0006 - Foam Stability",
-      "path": "50_Thinking/THK-0006 - Foam Stability.md"
-    },
-    {
-      "basename": "THK-0001 - Energised Fracturing Foam",
-      "path": "50_Thinking/THK-0001 - Energised Fracturing Foam.md"
-    },
-    {
-      "basename": "Hub - Questions Type",
-      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Questions Type.md"
-    },
-    {
       "basename": "Hub - Cognitive Type Questions",
       "path": "00_Hubs/01_Hub - Folder Notes/Hub - Cognitive Type Questions.md"
-    },
-    {
-      "basename": "Hub - Code Laboratory",
-      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Code Laboratory.md"
-    },
-    {
-      "basename": "Hub - Application Assets",
-      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Application Assets.md"
-    },
-    {
-      "basename": "Hub - Knowledge",
-      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Knowledge.md"
-    },
-    {
->>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
-      "basename": "HUB-02 - Foam Rheology",
-      "path": "00_Hubs/02_Hub - Subject Notes/HUB-02 - Foam Rheology.md"
-    },
-    {
-      "basename": "THK-0055 - Central Research Gap",
-      "path": "50_Thinking/THK-0055 - Central Research Gap.md"
-    },
-    {
-      "basename": "HUB-T11 - Gaps",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T11 - Gaps.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "REF-0005 - Aim, Objectives, and Research Questions",
-      "path": "80_Output_Asset/08_Thesis Chapters/REF-0005 - Aim, Objectives, and Research Questions.md"
-    },
-    {
-      "basename": "REF-0002 - Background and Petroleum Engineering Context",
-      "path": "80_Output_Asset/08_Thesis Chapters/REF-0002 - Background and Petroleum Engineering Context.md"
-    },
-    {
-=======
->>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
-      "basename": "REF-0001 - Proposal Summary",
-      "path": "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "HUB-T01 - Concepts",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T01 - Concepts.md"
-=======
-      "basename": "Hub - Output Assets",
-      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Output Assets.md"
->>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
-    },
-    {
-      "basename": "HUB-01 - Fracturing Context",
-      "path": "00_Hubs/02_Hub - Subject Notes/HUB-01 - Fracturing Context.md"
-    },
-    {
-<<<<<<< HEAD
-      "basename": "PRO-001 - Proposal Summary",
-      "path": "20_Processing/PRO-001 - Proposal Summary.md"
-    },
-    {
-=======
->>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
-      "basename": "HUB-",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-.md"
-    },
-    {
-      "basename": "THK-0064 - Random Forest Foam Prediction",
-      "path": "50_Thinking/THK-0064 - Random Forest Foam Prediction.md"
-    },
-    {
-      "basename": "HUB-T29 - Strategy",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T29 - Strategy.md"
-    },
-    {
-      "basename": "HUB-T07 - Methods",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T07 - Methods.md"
-    },
-    {
-      "basename": "THK-0073 - Comparative ML Model Evaluation for Foam Prediction",
-      "path": "50_Thinking/THK-0073 - Comparative ML Model Evaluation for Foam Prediction.md"
-    },
-    {
-      "basename": "HUB-T08 - Model Applications",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T08 - Model Applications.md"
-    },
-    {
-      "basename": "HUB-T28 - Process",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T28 - Process.md"
-    },
-    {
-      "basename": "HUB-T19 - Frameworks",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T19 - Frameworks.md"
-    },
-    {
-      "basename": "HUB-T18 - Principles",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T18 - Principles.md"
-    },
-    {
-      "basename": "HUB-T24 - Structure",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T24 - Structure.md"
-    },
-    {
-      "basename": "HUB-T27 - Uncertainty",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T27 - Uncertainty.md"
-    },
-    {
-      "basename": "HUB-T21 - Evaluation Method",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T21 - Evaluation Method.md"
-    },
-    {
-      "basename": "HUB-T16 - Decision Processes",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T16 - Decision Processes.md"
-    },
-    {
-      "basename": "HUB-T26 - Evaluation Concept",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T26 - Evaluation Concept.md"
-    },
-    {
-      "basename": "HUB-T25 - Decision Object",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T25 - Decision Object.md"
-    },
-    {
-      "basename": "HUB-T23 - Decision Rule",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T23 - Decision Rule.md"
-    },
-    {
-      "basename": "HUB-T22 - Decision Method",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T22 - Decision Method.md"
-    },
-    {
-      "basename": "PRO-006 - Knowledge-object extraction",
-      "path": "20_Processing/PRO-006 - Knowledge-object extraction.md"
-    },
-    {
-      "basename": "HUB-T10 - Limitations",
-      "path": "00_Hubs/03_Hub - Type Notes/HUB-T10 - Limitations.md"
-    },
-    {
-      "basename": "THK-0077 - ML as Engineering Decision-Support Tool",
-      "path": "50_Thinking/THK-0077 - ML as Engineering Decision-Support Tool.md"
-    },
-    {
-      "basename": "THK-0078 - Layered Petroleum Engineering Research Methodology",
-      "path": "50_Thinking/THK-0078 - Layered Petroleum Engineering Research Methodology.md"
-    },
-    {
-      "basename": "THK-0080 - Sequential HPHT Foam Research Workflow",
-      "path": "50_Thinking/THK-0080 - Sequential HPHT Foam Research Workflow.md"
-    },
-    {
-      "basename": "THK-0082 - Five-Module HPHT Foam Engineering Methodology",
-      "path": "50_Thinking/THK-0082 - Five-Module HPHT Foam Engineering Methodology.md"
-    },
-    {
-      "basename": "THK-0083 - Engineering Stage-Gate Methodology",
-      "path": "50_Thinking/THK-0083 - Engineering Stage-Gate Methodology.md"
-    },
-    {
-      "basename": "THK-0084 - HPHT Foam Feature Matrix",
-      "path": "50_Thinking/THK-0084 - HPHT Foam Feature Matrix.md"
-    },
-    {
-      "basename": "THK-0085 - Heterogeneous Foam Dataset Harmonisation",
-      "path": "50_Thinking/THK-0085 - Heterogeneous Foam Dataset Harmonisation.md"
-    },
-    {
-      "basename": "THK-0054 - Integrated HPHT Foam Prediction Framework",
-      "path": "50_Thinking/THK-0054 - Integrated HPHT Foam Prediction Framework.md"
-    },
-    {
-      "basename": "THK-0057 -  Multivariable Control of Foam Performance",
-      "path": "50_Thinking/THK-0057 -  Multivariable Control of Foam Performance.md"
-    },
-    {
-      "basename": "THK-0024 - Machine Learning for Foam Rheology",
-      "path": "50_Thinking/THK-0024 - Machine Learning for Foam Rheology.md"
-    },
-    {
-      "basename": "THK-0028 - Predictive Uncertainty",
-      "path": "50_Thinking/THK-0028 - Predictive Uncertainty.md"
-    },
-    {
-      "basename": "THK-0051 - Model Reliability under Unfamiliar Conditions",
-      "path": "50_Thinking/THK-0051 - Model Reliability under Unfamiliar Conditions.md"
-    },
-    {
-      "basename": "THK-0049 - Operating-Window Identification",
-      "path": "50_Thinking/THK-0049 - Operating-Window Identification.md"
-<<<<<<< HEAD
-    },
-    {
-      "basename": "THK-0053 - Engineering Interpretation of Predictions",
-      "path": "50_Thinking/THK-0053 - Engineering Interpretation of Predictions.md"
-    },
-    {
-      "basename": "THK-0072 - HPHT Foam Dataset Compilation and Structuring",
-      "path": "50_Thinking/THK-0072 - HPHT Foam Dataset Compilation and Structuring.md"
-    },
-    {
-      "basename": "THK-0074 - Uncertainty-Based Model Reliability Assessment",
-      "path": "50_Thinking/THK-0074 - Uncertainty-Based Model Reliability Assessment.md"
-    },
-    {
-      "basename": "THK-0075 - Constraint-Based Foam Operating Window",
-      "path": "50_Thinking/THK-0075 - Constraint-Based Foam Operating Window.md"
-    },
-    {
-      "basename": "THK-0076 - Engineering Evaluation of Foam Model Outputs",
-      "path": "50_Thinking/THK-0076 - Engineering Evaluation of Foam Model Outputs.md"
-    },
-    {
-      "basename": "PRO-005 - Aim, Objectives, and Research Questions",
-      "path": "20_Processing/PRO-005 - Aim, Objectives, and Research Questions.md"
-=======
->>>>>>> 52be1b30c4d2f1b16184b5ceadec3865a4c2f14e
     }
   ],
   "omittedPaths": [],
