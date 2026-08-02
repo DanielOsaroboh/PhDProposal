@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinking/07_Decide/THK-0023 - Which model should I choose.md",
+                "file": "20_Processing/PRO-002 - Background and Petroleum Engineering Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THK-0023 - Which model should I choose"
+              "title": "PRO-002 - Background and Petroleum Engineering Context"
             }
           }
         ],
@@ -242,12 +242,13 @@
   },
   "active": "071c8d2c0d20ce84",
   "lastOpenFiles": [
+    "01_Sources/Question 6.md",
+    "Thinking/07_Decide/THK-0023 - Which model should I choose.md",
     "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md",
     "01_Sources/PhD Thesis Proposal.md",
     "01_Sources/Question 3.md",
     "01_Sources/Question 4.md",
     "01_Sources/Question 5.md",
-    "01_Sources/Question 6.md",
     "01_Capture/Updated copy on - Proposal PhD.docx",
     "01_Capture/Feedback PhD.docx",
     "50_Thinking/THK-0043 - Viscosity–Proppant Settling Relationship.md",
@@ -261,7 +262,6 @@
     "00_Hubs/02_Hub - Subject Notes/HUB-01 - Fracturing Context.md",
     "50_Thinking/THK-0005 - Foam Apparent Viscosity.md",
     "50_Thinking/THK-0006 - Foam Stability.md",
-    "Thinking/07_Decide/THK-0023 - Which model should I choose.md",
     "Machine Learning.md",
     "Thinking/03_Explain/Why do nanoparticles improve foam stability_.md",
     "Thinking/01_Learn/What is Machine Learning_.md",
