@@ -18,5 +18,42 @@
   "xlsx": {
     "defaultFitWidth": true
   },
-  "readingStates": []
+  "readingStates": [
+    {
+      "path": "01_Capture/Updated copy on - Proposal PhD.docx",
+      "mtime": 1784476743541,
+      "format": "docx",
+      "lastAccessed": 95,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 4700
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "01_Capture/Daniel Correction Log.docx",
+      "mtime": 1784451254155,
+      "format": "docx",
+      "lastAccessed": 119,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 1200
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    }
+  ]
 }

@@ -32,6 +32,6 @@ Determine whether a predictive model accurately represents real-world behaviour.
 
 # Related Notes
 
-- [[METR-0001 - RMSE]]
-- [[METR-0002 - MAE]]
+- [[MET-0001 - RMSE]]
+- [[MET-0002 - MAE]]
 - [[Cross Validation]]
