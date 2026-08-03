@@ -2637,3 +2637,297 @@ Your main **Home Hub** can connect all the other Hubs:
 ```
 
 The main purpose of a Hub is to give you **one clear starting point** instead of opening folders and searching for files every time.
+
+
+- General Skills Knowledge
+Below are the **key terms** for your proposed PhD work, arranged in **alphabetical order**. These are the terms you should know well for your interview.
+
+### A
+
+- Algorithms
+    
+- Aleatoric Uncertainty
+    
+- Apparent Viscosity
+    
+- Artificial Intelligence (AI)
+    
+- Artificial Neural Network (ANN)
+    
+
+### B
+
+- Bayesian Hyperparameter Optimisation
+    
+- Bootstrapping
+    
+- Bubble Size Distribution
+    
+
+### C
+
+- Calibration
+    
+- Carbon Dioxide (CO₂)
+    
+- Confidence Interval
+    
+- Cross-Validation
+    
+
+### D
+
+- Data Cleaning
+    
+- Data Fusion
+    
+- Data Heterogeneity
+    
+- Data Normalisation
+    
+- Data Preprocessing
+    
+- Decision Support System
+    
+- Dimensionless Parameters
+    
+- Dropout
+    
+
+### E
+
+- Ensemble Learning
+    
+- Epistemic Uncertainty
+    
+- Extrapolation
+    
+
+### F
+
+- Feature Engineering
+    
+- Flowback
+    
+- Fluid Leak-off
+    
+- Foam Half-life
+    
+- Foam Quality
+    
+- Foam Rheology
+    
+- Foam Stability
+    
+- Fracture Conductivity
+    
+- Fracture Propagation
+    
+
+### G
+
+- Gas Composition
+    
+- Gas-Liquid Ratio
+    
+
+### H
+
+- High-Pressure High-Temperature (HPHT)
+    
+- Hydraulic Fracturing
+    
+- Hydraulic Fracturing-Fluid Design
+    
+
+### I
+
+- Input Variables
+    
+- Interpretable Machine Learning
+    
+
+### J
+
+- Journal of Natural Gas Science and Engineering
+    
+- Journal of Petroleum Science and Engineering
+    
+
+### K
+
+- k-Fold Cross-Validation
+    
+
+### L
+
+- Laboratory Data
+    
+- Leak-off
+    
+- Limited Dataset
+    
+
+### M
+
+- Machine Learning (ML)
+    
+- Metadata
+    
+- Model Calibration
+    
+- Model Generalisation
+    
+- Monte Carlo Dropout
+    
+- Multi-objective Optimisation
+    
+
+### N
+
+- Nanoparticle Concentration
+    
+- Nitrogen (N₂)
+    
+- Normalisation
+    
+
+### O
+
+- Operating Window
+    
+- Optimisation
+    
+- Outlier Detection
+    
+
+### P
+
+- Petroleum Engineering
+    
+- Prediction Interval
+    
+- Prediction Uncertainty
+    
+- Pressure
+    
+- Pressure Gradient
+    
+- Proppant
+    
+- Proppant Transport
+    
+
+### Q
+
+- Quantified Confidence
+    
+- Quantitative Prediction
+    
+- Quantitative Uncertainty
+    
+- Quality Control
+    
+
+### R
+
+- Random Forest
+    
+- Regression
+    
+- Reservoir Conditions
+    
+- Reservoir Temperature
+    
+- Reservoir Pressure
+    
+- Robust Validation
+    
+
+### S
+
+- Salinity
+    
+- Shear Rate
+    
+- Standardisation
+    
+- Surfactant Concentration
+    
+- Support Vector Regression (SVR)
+    
+
+### T
+
+- Temperature
+    
+- Thermal Stability
+    
+- Training Dataset
+    
+
+### U
+
+- Uncertainty Quantification (UQ)
+    
+- Uncertainty-Aware Machine Learning
+    
+
+### V
+
+- Validation Dataset
+    
+- Viscosity
+    
+
+### X
+
+- XGBoost
+    
+
+---
+
+## The **20 most important keywords** to master for your interview are:
+
+1. Apparent Viscosity
+    
+2. Artificial Neural Network (ANN)
+    
+3. Cross-Validation
+    
+4. Ensemble Learning
+    
+5. Foam Quality
+    
+6. Foam Rheology
+    
+7. Foam Stability
+    
+8. High-Pressure High-Temperature (HPHT)
+    
+9. Hydraulic Fracturing
+    
+10. Hydraulic Fracturing-Fluid Design
+    
+11. Machine Learning
+    
+12. Monte Carlo Dropout
+    
+13. Operating Window
+    
+14. Pressure
+    
+15. Proppant Transport
+    
+16. Random Forest
+    
+17. Shear Rate
+    
+18. Temperature
+    
+19. Uncertainty Quantification (UQ)
+    
+20. XGBoost
+    
+
+If you can confidently explain these 20 concepts and how they relate to your proposed research, you will be well prepared for most technical questions in your PhD interview.

@@ -6,7 +6,7 @@ Your background is actually building one continuous causal argument:
 
 **Reservoir/operating conditions + fluid formulation**  
 → influence **foam microstructure and interactions**  
-→ determine **rheology and stability**  
+→ determine **rheology and stability
 → influence **proppant transport**  
 → determine **engineering performance**  
 → but existing models/data create **predictive uncertainty**  
