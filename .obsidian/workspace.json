@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b42cf458d02a0a65",
+            "id": "a1657da0936ec94f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Sources/Question 6.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Question 6"
+              "title": "New tab"
             }
           }
         ]
@@ -197,18 +193,31 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b42cf458d02a0a65",
+  "active": "a1657da0936ec94f",
   "lastOpenFiles": [
-    "00_Hubs/05 Questions/Hub_01.md",
-    "General Skills Knowledge/Obsidian 001.md",
     "01_Sources/Question 6.md",
     "01_Sources/Question 5.md",
     "01_Sources/Question 4.md",
     "01_Sources/Question 3.md",
+    "01_Sources/Question 2.md",
+    "01_Sources/Answer  1 - My prior research experience and technical preparation.md",
+    "01_Sources/Answer  5 - How uncertainty quantification would be implemented in practice.md",
+    "01_Sources/Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
+    "01_Sources/Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets.md",
+    "00_Hubs/05 Questions/Hub_01.md",
+    "01_Sources/Answer  6 - How the proposed operating windows would be linked to engineering decision-making..md",
+    "01_Sources/Answer  3 - likely data sources for the proposed modelling work.md",
+    "01_Sources/PhD Thesis Proposal.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0006 - Data Requirements and Feasibility.md",
+    "80_Output_Asset/08_Thesis Chapters/TITLE - 01.md",
+    "50_Thinking/THK-0096 - Interpolation–Extrapolation Validation Distinction.md",
+    "50_Thinking/THK-0100 - Aleatoric–Epistemic Uncertainty Decomposition.md",
+    "50_Thinking/THK-0103 - Uncertainty-Bounded Operating Window.md",
+    "50_Thinking/THK-0098 - Aleatoric Uncertainty in Foam Prediction.md",
+    "General Skills Knowledge/Obsidian 001.md",
     "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md",
     "README.md",
     "General Skills Knowledge",
-    "01_Sources/Question 2.md",
     "00_Hubs/07 Hub - Skills",
     "00_Hubs/05 Questions",
     "50_Thinking/THK-0092 - Grouped Validation for Foam Prediction.md",
@@ -216,21 +225,8 @@
     "00_Hubs/06_Hub - Methodology",
     "00_Hubs/04_Hub - Insigthts/vault distinction.md",
     "00_Hubs/04_Hub - Insigthts/Section Contribution.md",
-    "00_Hubs/04_Insigthts/vault distinction.md",
-    "00_Hubs/04_Insigthts/Section Contribution.md",
     "00_Hubs/04_Insigthts",
-    "00_Hubs/02_Hub - Subject Notes/HUB-02 - Foam Rheology.md",
-    "50_Thinking/THK-0055 - Central Research Gap.md",
-    "00_Hubs/03_Hub - Type Notes/HUB-T11 - Gaps.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0005 - Aim, Objectives, and Research Questions.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0002 - Background and Petroleum Engineering Context.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0001 - Proposal Summary.md",
-    "00_Hubs/03_Hub - Type Notes/HUB-T01 - Concepts.md",
-    "00_Hubs/02_Hub - Subject Notes/HUB-01 - Fracturing Context.md",
-    "20_Processing/PRO-001 - Proposal Summary.md",
-    "00_Hubs/03_Hub - Type Notes/HUB-.md",
     "MY NOTES - Shortcut.lnk",
-    "50_Thinking/THK-0064 - Random Forest Foam Prediction.md",
     "00_Hubs/04_Hub - Insigthts",
     "00_Hubs/03_Hub - Type Notes",
     "00_Hubs/02_Hub - Subject Notes",
