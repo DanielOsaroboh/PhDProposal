@@ -53,12 +53,12 @@
               "state": {
                 "file": "01_Sources/Answer  1 - My prior research experience and technical preparation.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -260,7 +260,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b7252f40caf6d666",
+  "active": "215a91c1a692def5",
   "lastOpenFiles": [
     "08_Thesis Chapters/REF-0010 - References.md",
     "08_Thesis Chapters/REF-0009 - Alignment with My Background.md",
