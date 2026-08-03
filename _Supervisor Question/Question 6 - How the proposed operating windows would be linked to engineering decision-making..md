@@ -1,5 +1,5 @@
 
-# Summary
+# Answer Summary
 
 > **The operating windows would translate the model outputs into engineering information. Instead of giving an engineer only a predicted viscosity or stability value, the framework would identify combinations of pressure, temperature and formulation where the required foam performance is predicted with acceptable confidence. These candidate windows could then be used to screen formulations, support fracturing-fluid design and guide further laboratory and proppant-transport assessment. They would support engineering judgement rather than replace it.**
 
