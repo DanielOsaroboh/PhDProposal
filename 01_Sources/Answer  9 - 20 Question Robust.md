@@ -1,0 +1,50 @@
+For each of the **20 mastery terms**, you should be able to answer the same six questions. Below is the compact mastery sheet.
+
+|#|Term|What is it?|Why does it matter?|How does it work?|What controls it?|How measure/model it?|Connection to your research|
+|---|---|---|---|---|---|---|---|
+|**1**|**Energised Fracturing Foam**|A gas–liquid fracturing fluid, typically containing N₂ or CO₂.|Reduces water use and can support proppant transport in sensitive reservoirs.|Gas bubbles dispersed in liquid create a structured multiphase fluid.|Gas fraction, surfactant, nanoparticles, P, T, shear and salinity.|Foam quality, viscosity, stability and rheological tests.|It is the **physical system being predicted and engineered**.|
+|**2**|**HPHT Conditions**|Reservoir conditions involving high pressure and high temperature.|They can substantially alter foam structure, rheology and stability.|Pressure affects gas/bubbles; temperature affects drainage, viscosity and destabilisation processes.|Reservoir P and T and their interaction with formulation.|HPHT experimental measurements and predictive models.|Defines the **extreme operating environment** of the research.|
+|**3**|**Foam Quality**|Volumetric fraction of gas in foam.|It strongly affects foam structure, viscosity and flow behaviour.|Increasing gas fraction changes bubble packing and liquid distribution.|Gas/liquid ratio, P and T.|Gas volume ÷ total foam volume; incorporated as a model input.|One of the **key predictors of viscosity and stability**.|
+|**4**|**Apparent Viscosity**|Effective resistance of foam to flow at a specified shear condition.|It affects pumping behaviour and proppant suspension/transport.|Internal foam structure resists deformation and flow.|Shear, P, T, foam quality and formulation.|Rheometer; rheological equations; ML prediction.|One of your **two primary predictive targets**.|
+|**5**|**Foam Stability**|Ability of foam to maintain its structure over time.|Unstable foam can lose its useful fracturing-fluid properties.|Stability persists when bubble films resist drainage and breakdown.|Temperature, surfactant, nanoparticles, salinity, foam quality, etc.|Primarily foam half-life in your research.|Your **second primary predictive target**.|
+|**6**|**Non-Newtonian Rheology**|Flow behaviour where viscosity is not constant with shear.|Foam is non-Newtonian, so simple constant-viscosity assumptions are inadequate.|Foam structure reorganises/deforms as shear changes.|Shear rate plus foam structure and formulation.|Flow curves and rheological constitutive models.|Explains why foam behaviour requires **nonlinear modelling**.|
+|**7**|**Nanoparticle–Surfactant Interaction**|Interaction between stabilising nanoparticles and surfactant molecules.|It can enhance or reduce foam stability.|Particles and surfactants interact at interfaces; suitable interactions strengthen films, while excessive aggregation can be detrimental.|Particle/surfactant type, concentration, charge and solution chemistry.|Experimental formulation studies and predictive variables.|Central to your **nanoparticle-stabilised foam formulation**.|
+|**8**|**Foam Destabilisation**|Processes that progressively destroy foam structure.|Determines how long useful foam properties persist.|Drainage, coalescence and gas diffusion progressively alter the foam.|T, P, formulation, salinity and interfacial properties.|Stability/half-life and drainage measurements.|Explains the **physical mechanisms behind stability predictions**.|
+|**9**|**Proppant Transport**|Movement and suspension of solid proppant through the fracturing fluid.|Poor transport can compromise effective proppant placement.|Fluid rheology and stability resist settling and help carry particles.|Viscosity, stability, flow conditions and proppant properties.|Settling/transport experiments and engineering assessment.|A **downstream application**, not your main ML target.|
+|**10**|**Coupled HPHT Effects**|Interactions among multiple operating and formulation variables.|Foam response cannot necessarily be understood from one variable at a time.|One variable modifies the influence of another.|P, T, shear, foam quality, salinity, surfactant and nanoparticles.|Multivariable experiments and nonlinear modelling.|This is the **complexity your ML framework attempts to capture**.|
+|**11**|**Rheological Models**|Mathematical models describing fluid flow behaviour.|They provide baseline representations of foam rheology.|They relate quantities such as shear stress, shear rate and viscosity.|Model form and fitted parameters.|Power-law, Bingham, Herschel–Bulkley/Carreau, etc.|Their limited transferability helps motivate **data-driven modelling**.|
+|**12**|**ML Regression**|Data-driven prediction of continuous outputs.|It can capture complex nonlinear relationships conventional models may miss.|Learns input→output relationships from training data.|Data quality, features, algorithm and hyperparameters.|RF, XGBoost, ANN, GPR and performance metrics.|Predicts **apparent viscosity and foam stability**.|
+|**13**|**Feature Engineering & Data Harmonisation**|Transforming heterogeneous data into consistent meaningful model inputs.|Poorly structured data produces unreliable models.|Units, terminology, variables and records are standardised and structured.|Source quality, variable availability and engineering judgement.|Data-cleaning, standardisation and feature-selection procedures.|Creates your **model-ready HPHT master dataset**.|
+|**14**|**Model Generalisation**|Ability to predict data not used during training.|A model useful only on familiar data has limited engineering value.|Learned relationships are tested against genuinely unseen observations.|Data diversity, overfitting, model complexity and validation design.|Grouped/holdout validation and error metrics.|Tests whether your framework is **transferable beyond its training data**.|
+|**15**|**Interpolation vs Extrapolation**|Interpolation predicts within supported data regions; extrapolation extends beyond them.|Reliability can decline substantially in unfamiliar conditions.|The prediction's location is compared with the training-data domain.|Training-data coverage and input combinations.|Domain analysis and holdout validation.|Critical for assessing **unfamiliar HPHT predictions**.|
+|**16**|**Predictive Uncertainty**|Uncertainty associated with a model prediction.|A predicted value alone does not reveal how trustworthy it is.|Prediction is accompanied by information describing its uncertainty.|Data variability, data sparsity and model knowledge.|Prediction intervals/probabilistic or ensemble methods.|This is a **central differentiator of your proposed framework**.|
+|**17**|**Aleatoric vs Epistemic Uncertainty**|Aleatoric = inherent/data variability; epistemic = limited model knowledge.|They explain **why** a prediction is uncertain.|They separate physical/experimental variability from knowledge deficiency.|Experimental noise versus data/model coverage.|Probabilistic/UQ methods and uncertainty decomposition.|Helps interpret reliability, especially under **sparse HPHT conditions**.|
+|**18**|**UQ & Calibration**|UQ estimates uncertainty; calibration checks whether those estimates are reliable.|Bad uncertainty estimates can be as misleading as bad predictions.|Predicted uncertainty is compared with actual prediction behaviour.|Model, data, UQ method and validation.|Prediction intervals, coverage and calibration assessment.|Determines whether uncertainty information is **credible enough for engineering interpretation**.|
+|**19**|**Uncertainty-Bounded Operating Window**|A region where predicted foam performance meets requirements with acceptable uncertainty.|Good predicted performance alone is insufficient if confidence is poor.|Performance criteria and uncertainty criteria are applied together.|P, T, formulation, foam quality, engineering constraints and uncertainty.|ML + UQ + constraint-based operating-space analysis.|This is the **main engineering translation of your predictions**.|
+|**20**|**Engineering Decision Support**|Using model information to assist rather than replace engineering judgement.|Engineering decisions require more than algorithmic predictions.|Predictions, uncertainty and constraints are combined and interpreted.|Model reliability, evidence and engineering requirements.|Integrated framework and engineering assessment.|This is the **ultimate purpose of the research framework**.|
+
+### The entire research in the six-question logic
+
+You can also apply those six questions to the **whole PhD problem**:
+
+**What is it?**  
+Prediction of the rheology and stability of nanoparticle-stabilised energised foams under HPHT conditions.
+
+**Why does it matter?**  
+Because unreliable foam behaviour can affect fracturing-fluid design and downstream proppant suspension and transport.
+
+**How does it work?**  
+HPHT and formulation variables interact nonlinearly to control foam viscosity and stability; ML learns these relationships from experimental evidence.
+
+**What controls it?**  
+Primarily pressure, temperature, shear, foam quality, salinity, surfactant chemistry and concentration, nanoparticle concentration, and gas characteristics.
+
+**How do we measure/model it?**  
+Experimental foam data are compiled and harmonised, ML models predict viscosity and stability, validation tests generalisation, and uncertainty quantification assesses prediction reliability.
+
+**How does it connect to the research problem?**  
+Your problem is not merely obtaining predictions. It is obtaining **predictions whose reliability is understood sufficiently to identify candidate HPHT operating windows for engineering evaluation**.
+
+So your deepest memory chain can be:
+
+> **Understand the foam → understand what controls it → predict its behaviour → determine whether the prediction can be trusted → use trustworthy predictions to identify candidate operating conditions.**
