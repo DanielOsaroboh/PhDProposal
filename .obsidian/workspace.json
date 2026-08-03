@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "566a15923bca1997",
+        "id": "fc19d12647c78905",
         "type": "tabs",
         "children": [
           {
-            "id": "42151ec9863ca999",
+            "id": "6954ccce1db44ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Processing/PRO-009 - Scope.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PRO-009 - Scope"
+              "title": "New tab"
             }
           }
         ]
@@ -197,10 +193,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "42151ec9863ca999",
+  "active": "6954ccce1db44ac0",
   "lastOpenFiles": [
-    "20_Processing/PRO-008 -  Reseacher -alignment- capability map.md",
+    "_Supervisor Question/Question 5 - How uncertainty quantification would be implemented in practice.md",
+    "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md",
+    "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
+    "_Supervisor Question/Question 6 - How the proposed operating windows would be linked to engineering decision-making..md",
+    "00_Hubs/05_Hub -  Questions/Hub_01.md",
+    "_Supervisor Question/Question 4 - How would you manage the limited and heterogeneous nature of HPHT foam datasets.md",
+    "_Supervisor Question/Question 3 - The likely data sources for the proposed modelling work.md",
+    "_Supervisor Question",
     "20_Processing/PRO-009 - Scope.md",
+    "20_Processing/PRO-008 -  Reseacher -alignment- capability map.md",
     "00_MOC/MOC - My Research.md",
     "50_Thinking/THK-0005 - Foam Apparent Viscosity.md",
     "00_MOC",
@@ -220,20 +224,12 @@
     "50_Thinking/THK-0118 - HPHT Foam Predictive Capability.md",
     "50_Thinking/THK-0118 - HPHT Foam Predictive Capability2.md",
     "50_Thinking/THK-0119 - Reliability-Aware Foam Prediction Capability.md",
-    "50_Thinking/THK-0120 — Engineering Decision-Support Contribution.md",
-    "50_Thinking/THK-0121 -  Integrated Research Contribution Architecture.md",
-    "00_Hubs/06_Hub - Methodology/Hub - Architecture.md",
-    "50_Thinking/THK-0117  - Reproducible HPHT Foam Data-Preparation Approach.md",
-    "50_Thinking/THK-0116  - Structured HPHT Foam Data Resource.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0000 - THESIS.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0006 - Data Requirements and Feasibility.md",
     "General Skills Knowledge",
     "00_Hubs/07 Hub - Skills",
     "00_Hubs/05_Hub -  Questions",
     "00_Hubs/06_Hub - Methodology",
     "00_Hubs/04_Insigthts",
     "MY NOTES - Shortcut.lnk",
-    "00_Hubs/04_Hub - Insigthts",
-    "00_Hubs/03_Hub - Type Notes"
+    "00_Hubs/04_Hub - Insigthts"
   ]
 }
