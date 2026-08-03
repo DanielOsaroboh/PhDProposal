@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Thesis Chapters/REF-0000 - THESIS.md",
+                "file": "08_Thesis Chapters/_TITLE - 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REF-0000 - THESIS"
+              "title": "_TITLE - 01"
             }
           }
         ],
@@ -260,8 +260,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "215a91c1a692def5",
+  "active": "b7252f40caf6d666",
   "lastOpenFiles": [
+    "08_Thesis Chapters/REF-0001 - Proposal Summary.md",
+    "08_Thesis Chapters/REF-0000 - THESIS.md",
     "08_Thesis Chapters/REF-0010 - References.md",
     "08_Thesis Chapters/REF-0009 - Alignment with My Background.md",
     "08_Thesis Chapters/REF-0008 - Scope and Limitations.md",
@@ -270,8 +272,6 @@
     "08_Thesis Chapters/REF-0005 - Aim, Objectives, and Research Questions.md",
     "08_Thesis Chapters/REF-0004 - Knowledge Gap and Significance.md",
     "08_Thesis Chapters/REF-0002 - Background and Petroleum Engineering Context.md",
-    "08_Thesis Chapters/REF-0001 - Proposal Summary.md",
-    "08_Thesis Chapters/REF-0000 - THESIS.md",
     "01_Sources/Answer  1 - My prior research experience and technical preparation.md",
     "01_Sources/Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
     "01_Sources/Answer  3 - likely data sources for the proposed modelling work.md",
