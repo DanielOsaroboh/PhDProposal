@@ -20,6 +20,24 @@
   },
   "readingStates": [
     {
+      "path": "01_Capture/Updated copy on - Proposal PhD.docx",
+      "mtime": 1784476743541,
+      "format": "docx",
+      "lastAccessed": 95,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 4700
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
       "path": "01_Capture/Daniel Correction Log.docx",
       "mtime": 1784451254155,
       "format": "docx",
@@ -38,39 +56,43 @@
       }
     },
     {
-      "path": "01_Capture/Feedback PhD.docx",
-      "mtime": 1781524400000,
-      "format": "docx",
-      "lastAccessed": 216,
+      "path": "_Supervisor Question/~$HPHT_Supervisor_Presentation_ updated .pptx",
+      "mtime": 1785752557039,
+      "format": "pptx",
+      "lastAccessed": 134,
       "position": {
         "scrollLeft": 0,
-        "scrollTop": 3824.800048828125
+        "scrollTop": 0,
+        "page": 1
       },
       "zoom": {
         "scale": 1,
-        "fit": false
+        "fit": true
       },
       "navigation": {
         "panelVisible": true,
-        "collapsedIds": []
+        "collapsedIds": [],
+        "notesVisible": false
       }
     },
     {
-      "path": "01_Capture/Updated copy on - Proposal PhD.docx",
-      "mtime": 1784476743000,
-      "format": "docx",
-      "lastAccessed": 500,
+      "path": "_Supervisor Question/HPHT_Supervisor_Presentation_ updated .pptx",
+      "mtime": 1785752557306,
+      "format": "pptx",
+      "lastAccessed": 139,
       "position": {
         "scrollLeft": 0,
-        "scrollTop": 10700
+        "scrollTop": 0,
+        "page": 7
       },
       "zoom": {
         "scale": 1,
-        "fit": false
+        "fit": true
       },
       "navigation": {
         "panelVisible": true,
-        "collapsedIds": []
+        "collapsedIds": [],
+        "notesVisible": false
       }
     }
   ]

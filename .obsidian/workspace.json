@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0d25bc32d537c6",
+        "id": "0b60c7d0ff73b5d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb07315d28e89cd",
+            "id": "61217f65ffc23d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_Supervisor Question/Z_Diagram 02 - Explains what you will actually do to solve the problem.md",
-                "mode": "source",
-                "source": false
+                "file": "_Supervisor Question/Powerpoint - HPHT_Supervisor_Presentation_ updated .pdf"
               },
-              "icon": "lucide-file",
-              "title": "Z_Diagram 02 - Explains what you will actually do to solve the problem"
+              "icon": "lucide-file-text",
+              "title": "Powerpoint - HPHT_Supervisor_Presentation_ updated"
             }
           }
         ]
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Supervisor Question/Z_Diagram 02 - Explains what you will actually do to solve the problem.md",
+                "file": "_Supervisor Question/Powerpoint - HPHT_Supervisor_Presentation_ updated .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Supervisor Question/Z_Diagram 02 - Explains what you will actually do to solve the problem.md",
+                "file": "_Supervisor Question/Powerpoint - HPHT_Supervisor_Presentation_ updated .pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,13 +196,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6eb07315d28e89cd",
+  "active": "61217f65ffc23d06",
   "lastOpenFiles": [
+    "_Supervisor Question/HPHT_Supervisor_Presentation_ updated .pptx",
+    "_Supervisor Question/Powerpoint - HPHT_Supervisor_Presentation_ updated .pdf",
+    "_Supervisor Question/Powerpoint - HPHT_Supervisor_Presentation_ updated.pdf",
+    "_Supervisor Question/~$HPHT_Supervisor_Presentation_ updated .pptx",
+    "_Supervisor Question/Powerpoint - HPHT_Supervisor_Presentation_ updated.pdf.crdownload",
+    "_Supervisor Question/msoF242.tmp",
+    "_Supervisor Question/msoE4E3.tmp",
+    "_Supervisor Question/Z_Diagram 02 - Explains what you will actually do to solve the problem.md",
+    "_Supervisor Question/Z_Diagram 01 - Intellectual architecture of the Research..md",
     "Image 02.png",
     "Image 01.png",
-    "_Supervisor Question/Z_Diagram 01 - Intellectual architecture of the Research..md",
     "_Supervisor Question/Untitled.md",
-    "_Supervisor Question/Z_Diagram 02 - Explains what you will actually do to solve the problem.md",
     "_Supervisor Question/Untitled 1.md",
     "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
     "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md",
@@ -232,12 +237,6 @@
     "_Supervisor Question",
     "00_MOC",
     "00_Dashboard/Untitled",
-    "General Skills Knowledge",
-    "00_Hubs/07 Hub - Skills",
-    "00_Hubs/05_Hub -  Questions",
-    "00_Hubs/06_Hub - Methodology",
-    "00_Hubs/04_Insigthts",
-    "MY NOTES - Shortcut.lnk",
-    "00_Hubs/04_Hub - Insigthts"
+    "General Skills Knowledge"
   ]
 }
