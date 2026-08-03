@@ -2,7 +2,7 @@
 # What is my research problem?
 
 
-![[Pasted image 20260803100301.png]]
+![[Image 02.png]]
 **Diagram 1 — Research Problem Architecture**
 
 
