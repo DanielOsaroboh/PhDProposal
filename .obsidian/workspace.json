@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc19d12647c78905",
+        "id": "4198cd0dbf6a0fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "6954ccce1db44ac0",
+            "id": "856be9888d4c7cbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "General Skills Knowledge/Obsidian 001.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Obsidian 001"
             }
           }
         ]
@@ -86,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 307.1000061035156
   },
   "right": {
     "id": "2791532568131440",
@@ -193,43 +197,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6954ccce1db44ac0",
+  "active": "856be9888d4c7cbc",
   "lastOpenFiles": [
-    "_Supervisor Question/Question 5 - How uncertainty quantification would be implemented in practice.md",
-    "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md",
-    "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
     "_Supervisor Question/Question 6 - How the proposed operating windows would be linked to engineering decision-making..md",
-    "00_Hubs/05_Hub -  Questions/Hub_01.md",
+    "_Supervisor Question/Question 5 - How uncertainty quantification would be implemented in practice.md",
     "_Supervisor Question/Question 4 - How would you manage the limited and heterogeneous nature of HPHT foam datasets.md",
+    "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
     "_Supervisor Question/Question 3 - The likely data sources for the proposed modelling work.md",
+    "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md",
     "_Supervisor Question",
+    "50_Thinking/THK-0118 - HPHT Foam Predictive Capability.md",
+    "50_Thinking/THK-0117  - Reproducible HPHT Foam Data-Preparation Approach.md",
+    "50_Thinking/THK-0116  - Structured HPHT Foam Data Resource.md",
+    "50_Thinking/THK-0115 - Evidence-Constrained Modelling Scope.md",
+    "50_Thinking/THK-0114 - Dataset Adequacy Gate.md",
+    "50_Thinking/THK-0113 - Data-Complexity Matching Principle.md",
+    "50_Thinking/THK-0112 - HPHT Foam Dataset Adequacy.md",
+    "50_Thinking/THK-0111 - Literature Data Digitisation.md",
+    "50_Thinking/THK-0110 - Published-Data-First Acquisition Strategy.md",
+    "50_Thinking/THK-0109 - HPHT Foam Data Availability Constraint.md",
+    "50_Thinking/THK-0103 - Uncertainty-Bounded Operating Window.md",
+    "50_Thinking/THK-0100 - Aleatoric–Epistemic Uncertainty Decomposition.md",
+    "50_Thinking/THK-0098 - Aleatoric Uncertainty in Foam Prediction.md",
+    "50_Thinking/THK-0096 - Interpolation–Extrapolation Validation Distinction.md",
     "20_Processing/PRO-009 - Scope.md",
     "20_Processing/PRO-008 -  Reseacher -alignment- capability map.md",
-    "00_MOC/MOC - My Research.md",
-    "50_Thinking/THK-0005 - Foam Apparent Viscosity.md",
-    "00_MOC",
-    "00_Dashboard/Untitled",
-    "01_Sources/Answer 8 - Entire research in the six-question logic.md",
-    "01_Sources/Answer  9 - 20 Question Robust.md",
-    "01_Sources/Answer 7 - 20 short-answer mastery version.md",
     "20_Processing/PRO-007 - 20 mastery terms.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0010 - References.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0009 - Alignment with My Background.md",
-    "00_Hubs/06_Hub - Methodology/Hub - Structure.md",
-    "50_Thinking/THK-0125  - Hydraulic-Fracturing Simulation Exclusion Boundary.md",
-    "50_Thinking/THK-0122 - HPHT Foam Research Scope Boundary.md",
-    "50_Thinking/THK-0124  - Foam Half-Life as Stability Operationalisation.md",
-    "50_Thinking/THK-0123 — Primary Predictive Target–Downstream Application Distinction.md",
-    "80_Output_Asset/08_Thesis Chapters/REF-0008 - Scope and Limitations.md",
-    "50_Thinking/THK-0118 - HPHT Foam Predictive Capability.md",
-    "50_Thinking/THK-0118 - HPHT Foam Predictive Capability2.md",
-    "50_Thinking/THK-0119 - Reliability-Aware Foam Prediction Capability.md",
-    "General Skills Knowledge",
-    "00_Hubs/07 Hub - Skills",
+    "01_Sources/Answer 8 - Entire research in the six-question logic.md",
+    "01_Sources/Answer 7 - 20 short-answer mastery version.md",
+    "01_Sources/Answer  9 - 20 Question Robust.md",
+    "00_MOC",
     "00_Hubs/05_Hub -  Questions",
+    "01_Capture/Updated copy on - Proposal PhD.docx",
+    "01_Capture/Feedback PhD.docx",
+    "00_Hubs/04_Hub - Insigthts",
     "00_Hubs/06_Hub - Methodology",
-    "00_Hubs/04_Insigthts",
-    "MY NOTES - Shortcut.lnk",
-    "00_Hubs/04_Hub - Insigthts"
+    "00_Hubs/07 Hub - Skills",
+    "Untitled",
+    "General Skills Knowledge"
   ]
 }
