@@ -1,5 +1,5 @@
 
-Here is a strong interview answer you can confidently give:
+
 
 ---
 

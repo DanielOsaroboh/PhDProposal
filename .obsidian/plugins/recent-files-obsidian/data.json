@@ -1,8 +1,49 @@
 {
   "recentFiles": [
     {
+<<<<<<< Updated upstream
+=======
+      "basename": "Answer  1 - My prior research experience and technical preparation",
+      "path": "01_Sources/Answer  1 - My prior research experience and technical preparation.md"
+    },
+    {
+      "basename": "Answer  5 - How uncertainty quantification would be implemented in practice",
+      "path": "01_Sources/Answer  5 - How uncertainty quantification would be implemented in practice.md"
+    },
+    {
+      "basename": "Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design",
+      "path": "01_Sources/Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md"
+    },
+    {
+      "basename": "Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets",
+      "path": "01_Sources/Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets.md"
+    },
+    {
+>>>>>>> Stashed changes
       "basename": "Hub_01",
       "path": "00_Hubs/05 Questions/Hub_01.md"
+    },
+    {
+<<<<<<< Updated upstream
+      "basename": "PhD Thesis Proposal",
+      "path": "01_Sources/PhD Thesis Proposal.md"
+    },
+    {
+      "basename": "REF-0006 - Data Requirements and Feasibility",
+      "path": "80_Output_Asset/08_Thesis Chapters/REF-0006 - Data Requirements and Feasibility.md"
+    },
+    {
+      "basename": "TITLE - 01",
+      "path": "80_Output_Asset/08_Thesis Chapters/TITLE - 01.md"
+    },
+    {
+=======
+      "basename": "Answer  6 - How the proposed operating windows would be linked to engineering decision-making.",
+      "path": "01_Sources/Answer  6 - How the proposed operating windows would be linked to engineering decision-making..md"
+    },
+    {
+      "basename": "Answer  3 - likely data sources for the proposed modelling work",
+      "path": "01_Sources/Answer  3 - likely data sources for the proposed modelling work.md"
     },
     {
       "basename": "PhD Thesis Proposal",
@@ -17,6 +58,11 @@
       "path": "80_Output_Asset/08_Thesis Chapters/TITLE - 01.md"
     },
     {
+      "basename": "THK-0096 - Interpolation–Extrapolation Validation Distinction",
+      "path": "50_Thinking/THK-0096 - Interpolation–Extrapolation Validation Distinction.md"
+    },
+    {
+>>>>>>> Stashed changes
       "basename": "THK-0100 - Aleatoric–Epistemic Uncertainty Decomposition",
       "path": "50_Thinking/THK-0100 - Aleatoric–Epistemic Uncertainty Decomposition.md"
     },

@@ -1,0 +1,9 @@
+# 7 Data Requirements and Feasibility
+
+Given the limited availability, size, heterogeneity, and structure of HPHT foam rheology and stability datasets, this research adopts a realistic data strategy that prioritises accessible sources and avoids dependence on proprietary or otherwise unavailable data.
+
+This research acknowledges that HPHT foam rheology and stability datasets in the existing literature are frequently small, formulation-specific, heterogeneous, and rarely reported in a format directly suitable for machine learning applications (Al-Darweesh et al., 2024). Consequently, the primary data strategy will begin with available published experimental datasets and the systematic extraction, structuring, digitisation, and standardisation of relevant HPHT foam measurements (Tran et al., 2023). Publicly available datasets and supplementary research materials will be incorporated where suitable. Research-group datasets will be considered only where they are available, relevant, and appropriately approved for use.
+
+The computational modelling strategy will be adapted to the size, quality, structure, and variable coverage of the resulting master dataset. Selected machine learning and uncertainty quantification methods will be evaluated based on the available data characteristics, with model complexity restricted where data availability is insufficient to support more complex model architectures (Ogbidi and Oteh, 2023).
+
+Ultimately, the feasibility of subsequent predictive modelling will be assessed on the basis of dataset adequacy rather than assumed in advance. If the compiled dataset is deemed insufficient in terms of size, completeness, variable coverage, or experimental diversity, the data search and extraction strategy will be broadened, and the modelling scope will be adjusted to align with the available physical evidence.

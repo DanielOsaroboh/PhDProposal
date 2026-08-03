@@ -1,9 +1,7 @@
 
-Here is a concise but technically strong interview answer:
-
 ---
 
-### **How would you manage the limited and heterogeneous nature of HPHT foam datasets?**
+### **How I will manage the limited and heterogeneous nature of HPHT foam datasets?**
 
 I recognise that this is one of the biggest challenges in applying machine learning to HPHT foam rheology. Unlike fields such as computer vision, HPHT foam datasets are often **small, expensive to generate, and collected under different laboratory conditions**, making them heterogeneous.
 
