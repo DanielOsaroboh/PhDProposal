@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets",
+      "path": "01_Sources/Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets.md"
+    },
+    {
+      "basename": "Answer  3 - likely data sources for the proposed modelling work",
+      "path": "01_Sources/Answer  3 - likely data sources for the proposed modelling work.md"
+    },
+    {
+      "basename": "Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design",
+      "path": "01_Sources/Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md"
+    },
+    {
+      "basename": "Answer  1 - My prior research experience and technical preparation",
+      "path": "01_Sources/Answer  1 - My prior research experience and technical preparation.md"
+    },
+    {
+      "basename": "Image 02",
+      "path": "Image 02.png"
+    },
+    {
+      "basename": "Image 01",
+      "path": "Image 01.png"
+    },
+    {
       "basename": "Z_Diagram 02 - Explains what you will actually do to solve the problem",
       "path": "_Supervisor Question/Z_Diagram 02 - Explains what you will actually do to solve the problem.md"
     },
@@ -107,6 +131,7 @@
     {
       "basename": "THK-0103 - Uncertainty-Bounded Operating Window",
       "path": "50_Thinking/THK-0103 - Uncertainty-Bounded Operating Window.md"
+
     }
   ],
   "omittedPaths": [],

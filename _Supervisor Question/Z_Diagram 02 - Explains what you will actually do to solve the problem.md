@@ -1,7 +1,7 @@
 
 #  How will I solve it?
 
-![[Pasted image 20260803100808.png]]
+![[Image 01.png]]
 **Diagram 2 = How will I solve it?** Source: Author
 
 
