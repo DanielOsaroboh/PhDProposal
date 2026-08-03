@@ -27,7 +27,9 @@ Explains **what the research problem is and how its main components connect**.
 - **How uncertainty quantification would be implemented**
 - **How operating windows link to engineering decision-making**
 
+---
 **Memory line:**
 
 > **Physics → Foam Behaviour → Prediction → Uncertainty → Reliability → Operating Window → Decision**
 
+---
