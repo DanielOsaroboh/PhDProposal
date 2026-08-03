@@ -4,84 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc19d12647c78905",
+        "id": "9a1d4e0556bec2c4",
         "type": "tabs",
-        "dimension": 66.06914212548016,
         "children": [
           {
-            "id": "6954ccce1db44ac0",
+            "id": "4055115d4d6a9534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Sources/Answer  1 - My prior research experience and technical preparation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Answer  1 - My prior research experience and technical preparation"
-            },
-            "group": "d1add4e4bf57ee9e"
-          },
-          {
-            "id": "b7252f40caf6d666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_Thesis Chapters/REF-0000 - THESIS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "REF-0000 - THESIS"
+              "title": "New tab"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d4653b712bac289f",
-        "type": "tabs",
-        "dimension": 33.93085787451985,
-        "children": [
-          {
-            "id": "215a91c1a692def5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "01_Sources/Answer  1 - My prior research experience and technical preparation.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224436,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Answer  1 - My prior research experience and technical preparation"
-            },
-            "group": "d1add4e4bf57ee9e"
           }
         ]
       }
@@ -152,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 307.1000061035156
   },
   "right": {
     "id": "2791532568131440",
@@ -256,47 +190,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b7252f40caf6d666",
+  "active": "4055115d4d6a9534",
   "lastOpenFiles": [
-    "01_Sources/Answer  1 - My prior research experience and technical preparation.md",
-    "01_Sources/Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
-    "01_Sources/Answer  3 - likely data sources for the proposed modelling work.md",
-    "01_Sources/Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets.md",
-    "01_Sources/Answer  5 - How uncertainty quantification would be implemented in practice.md",
-    "01_Sources/Answer  6 - How the proposed operating windows would be linked to engineering decision-making..md",
-    "01_Sources/Answer  9 - 20 Question Robust.md",
-    "01_Sources/Answer 7 - 20 short-answer mastery version.md",
-    "01_Sources/Answer 8 - Entire research in the six-question logic.md",
-    "01_Sources/PhD Thesis Proposal.md",
-    "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md",
-    "50_Thinking/THK-0103 - Uncertainty-Bounded Operating Window.md",
-    "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
     "_Supervisor Question/Question 6 - How the proposed operating windows would be linked to engineering decision-making..md",
     "_Supervisor Question/Question 5 - How uncertainty quantification would be implemented in practice.md",
     "_Supervisor Question/Question 4 - How would you manage the limited and heterogeneous nature of HPHT foam datasets.md",
     "_Supervisor Question/Question 3 - The likely data sources for the proposed modelling work.md",
-    "00_Hubs/05_Hub -  Questions/Hub_01.md",
-    "_Supervisor Question",
+    "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md",
+    "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md",
+    "50_Thinking/THK-0042 - Foam-Assisted Proppant Suspension.md",
     "20_Processing/PRO-009 - Scope.md",
-    "20_Processing/PRO-008 -  Reseacher -alignment- capability map.md",
-    "00_MOC/MOC - My Research.md",
-    "50_Thinking/THK-0005 - Foam Apparent Viscosity.md",
+    "50_Thinking/THK-0028 - Predictive Uncertainty.md",
+    "00_Hubs/02_Hub - Subject Notes/HUB-03 - Rheological Modelling.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0000 - THESIS.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0007 - Expected Contributions.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0006 - Data Requirements and Feasibility.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0010 - References.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0008 - Scope and Limitations.md",
+    "80_Output_Asset/08_Thesis Chapters/REF-0009 - Alignment with My Background.md",
+    "50_Thinking/THK-0120 — Engineering Decision-Support Contribution.md",
+    "50_Thinking/THK-0121 -  Integrated Research Contribution Architecture.md",
+    "50_Thinking/THK-0119 - Reliability-Aware Foam Prediction Capability.md",
+    "50_Thinking/THK-0122 - HPHT Foam Research Scope Boundary.md",
+    "50_Thinking/THK-0123 — Primary Predictive Target–Downstream Application Distinction.md",
+    "50_Thinking/THK-0125  - Hydraulic-Fracturing Simulation Exclusion Boundary.md",
+    "50_Thinking/THK-0124  - Foam Half-Life as Stability Operationalisation.md",
+    "General Skills Knowledge/Obsidian 001.md",
+    "_Supervisor Question",
+    "50_Thinking/THK-0118 - HPHT Foam Predictive Capability.md",
+    "50_Thinking/THK-0117  - Reproducible HPHT Foam Data-Preparation Approach.md",
     "00_MOC",
-    "00_Dashboard/Untitled",
-    "20_Processing/PRO-007 - 20 mastery terms.md",
-    "08_Thesis Chapters/REF-0010 - References.md",
-    "08_Thesis Chapters/REF-0009 - Alignment with My Background.md",
-    "00_Hubs/06_Hub - Methodology/Hub - Structure.md",
-    "General Skills Knowledge",
-    "00_Hubs/07 Hub - Skills",
     "00_Hubs/05_Hub -  Questions",
+    "01_Capture/Updated copy on - Proposal PhD.docx",
+    "01_Capture/Feedback PhD.docx",
+    "00_Hubs/04_Hub - Insigthts",
     "00_Hubs/06_Hub - Methodology",
-    "00_Hubs/04_Insigthts",
-    "MY NOTES - Shortcut.lnk",
-    "00_Hubs/04_Hub - Insigthts"
+    "00_Hubs/07 Hub - Skills",
+    "Untitled",
+    "General Skills Knowledge"
   ]
 }

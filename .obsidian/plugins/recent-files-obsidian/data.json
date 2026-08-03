@@ -1,60 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "REF-0000 - THESIS",
-      "path": "08_Thesis Chapters/REF-0000 - THESIS.md"
-    },
-    {
-      "basename": "Answer  1 - My prior research experience and technical preparation",
-      "path": "01_Sources/Answer  1 - My prior research experience and technical preparation.md"
-    },
-    {
-      "basename": "Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design",
-      "path": "01_Sources/Answer  2 - My understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md"
-    },
-    {
-      "basename": "Answer  3 - likely data sources for the proposed modelling work",
-      "path": "01_Sources/Answer  3 - likely data sources for the proposed modelling work.md"
-    },
-    {
-      "basename": "Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets",
-      "path": "01_Sources/Answer  4 - How I will  manage the limited and heterogeneous nature of HPHT foam datasets.md"
-    },
-    {
-      "basename": "Answer  5 - How uncertainty quantification would be implemented in practice",
-      "path": "01_Sources/Answer  5 - How uncertainty quantification would be implemented in practice.md"
-    },
-    {
-      "basename": "Answer  6 - How the proposed operating windows would be linked to engineering decision-making.",
-      "path": "01_Sources/Answer  6 - How the proposed operating windows would be linked to engineering decision-making..md"
-    },
-    {
-      "basename": "Answer  9 - 20 Question Robust",
-      "path": "01_Sources/Answer  9 - 20 Question Robust.md"
-    },
-    {
-      "basename": "Answer 7 - 20 short-answer mastery version",
-      "path": "01_Sources/Answer 7 - 20 short-answer mastery version.md"
-    },
-    {
-      "basename": "Answer 8 - Entire research in the six-question logic",
-      "path": "01_Sources/Answer 8 - Entire research in the six-question logic.md"
+      "basename": "Obsidian 001",
+      "path": "General Skills Knowledge/Obsidian 001.md"
     },
     {
       "basename": "PhD Thesis Proposal",
       "path": "01_Sources/PhD Thesis Proposal.md"
     },
     {
-      "basename": "Question 1 - Your prior research experience and technical preparation",
-      "path": "_Supervisor Question/Question 1 - Your prior research experience and technical preparation.md"
+      "basename": "HUB-T10 - Limitations",
+      "path": "00_Hubs/03_Hub - Type Notes/HUB-T10 - Limitations.md"
     },
     {
-      "basename": "THK-0103 - Uncertainty-Bounded Operating Window",
-      "path": "50_Thinking/THK-0103 - Uncertainty-Bounded Operating Window.md"
+      "basename": "Hub - Cognitive Type Questions",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Cognitive Type Questions.md"
     },
     {
-      "basename": "Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design",
-      "path": "_Supervisor Question/Question 2 - Your understanding of HPHT foam rheology and hydraulic fracturing-fluid design.md"
+      "basename": "Hub - Code Laboratory",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Code Laboratory.md"
+    },
+    {
+      "basename": "vault distinction",
+      "path": "00_Hubs/04_Insigthts/vault distinction.md"
+    },
+    {
+      "basename": "Section Contribution",
+      "path": "00_Hubs/04_Insigthts/Section Contribution.md"
+    },
+    {
+      "basename": "How do I design a foam experiment_",
+      "path": "Thinking/09_Create/How do I design a foam experiment_.md"
+    },
+    {
+      "basename": "Hub - Obsidian Notes",
+      "path": "00_Hubs/07 Hub - Skills/Hub - Obsidian Notes.md"
+    },
+    {
+      "basename": "PRO-002 - Background and Petroleum Engineering Context",
+      "path": "20_Processing/PRO-002 - Background and Petroleum Engineering Context.md"
+    },
+    {
+      "basename": "HUB-T11 - Gaps",
+      "path": "00_Hubs/03_Hub - Type Notes/HUB-T11 - Gaps.md"
+    },
+    {
+      "basename": "HUB-T05 - Thresholds",
+      "path": "00_Hubs/03_Hub - Type Notes/HUB-T05 - Thresholds.md"
+    },
+    {
+      "basename": "CON-0014 - Proppant Transport",
+      "path": "60_Knowledge_Objects/05_Concepts/CON-0014 - Proppant Transport.md"
+    },
+    {
+      "basename": "CON-0031 - Hydraulic Fracturing",
+      "path": "60_Knowledge_Objects/05_Concepts/CON-0031 - Hydraulic Fracturing.md"
+    },
+    {
+      "basename": "CON-0005 - HPHT Reservoir",
+      "path": "60_Knowledge_Objects/05_Concepts/CON-0005 - HPHT Reservoir.md"
+    },
+    {
+      "basename": "Hub - Questions Type",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Questions Type.md"
+    },
+    {
+      "basename": "QUE-001 - What is Machine Learning",
+      "path": "QUE-001 - What is Machine Learning.md"
+    },
+    {
+      "basename": "Hub - System Navigations",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - System Navigations.md"
+    },
+    {
+      "basename": "Hub - Thesis Proposal Sections",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Thesis Proposal Sections.md"
+    },
+    {
+      "basename": "THK-0006 - Foam Stability",
+      "path": "50_Thinking/THK-0006 - Foam Stability.md"
+    },
+    {
+      "basename": "HUB-02 - Foam Rheology",
+      "path": "00_Hubs/02_Hub - Subject Notes/HUB-02 - Foam Rheology.md"
+    },
+    {
+      "basename": "Hub - Knowledge",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Knowledge.md"
+    },
+    {
+      "basename": "Hub - Knowledge Assets",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Knowledge Assets.md"
+    },
+    {
+      "basename": "Hub - Meta-System",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Meta-System.md"
+    },
+    {
+      "basename": "Hub - Knowledge Objects",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Knowledge Objects.md"
+    },
+    {
+      "basename": "Hub - connected methodological chain",
+      "path": "00_Hubs/06_Hub - Methodology/Hub - connected methodological chain.md"
+    },
+    {
+      "basename": "PRO-001 - Proposal Summary",
+      "path": "20_Processing/PRO-001 - Proposal Summary.md"
+    },
+    {
+      "basename": "Why do nanoparticles improve foam stability_",
+      "path": "Thinking/03_Explain/Why do nanoparticles improve foam stability_.md"
+    },
+    {
+      "basename": "Hub - Application Assets",
+      "path": "00_Hubs/01_Hub - Folder Notes/Hub - Application Assets.md"
+    },
+    {
+      "basename": "THK-0023 - Which model should I choose",
+      "path": "Thinking/07_Decide/THK-0023 - Which model should I choose.md"
+    },
+    {
+      "basename": "Updated copy on - Proposal PhD",
+      "path": "01_Capture/Updated copy on - Proposal PhD.docx"
+    },
+    {
+      "basename": "Feedback PhD",
+      "path": "01_Capture/Feedback PhD.docx"
+    },
+    {
+      "basename": "THK-0043 - Viscosity–Proppant Settling Relationship",
+      "path": "50_Thinking/THK-0043 - Viscosity–Proppant Settling Relationship.md"
+    },
+    {
+      "basename": "HUB-05 - Engineering Performance",
+      "path": "00_Hubs/02_Hub - Subject Notes/HUB-05 - Engineering Performance.md"
+    },
+    {
+      "basename": "HUB-03 - Rheological Modelling",
+      "path": "00_Hubs/02_Hub - Subject Notes/HUB-03 - Rheological Modelling.md"
+    },
+    {
+      "basename": "_HUB-THK - Knowledge Object Types",
+      "path": "00_Hubs/02_Hub - Subject Notes/_HUB-THK - Knowledge Object Types.md"
+    },
+    {
+      "basename": "HUB-01 - Fracturing Context",
+      "path": "00_Hubs/02_Hub - Subject Notes/HUB-01 - Fracturing Context.md"
+    },
+    {
+      "basename": "THK-0005 - Foam Apparent Viscosity",
+      "path": "50_Thinking/THK-0005 - Foam Apparent Viscosity.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Machine Learning.md"
+    },
+    {
+      "basename": "What is Machine Learning_",
+      "path": "Thinking/01_Learn/What is Machine Learning_.md"
+    },
+    {
+      "basename": "What is Bayesian Optimisation_",
+      "path": "Thinking/01_Learn/What is Bayesian Optimisation_.md"
+    },
+    {
+      "basename": "What is an HPHT Reservoir_",
+      "path": "Thinking/01_Learn/What is an HPHT Reservoir_.md"
     }
   ],
   "omittedPaths": [],
